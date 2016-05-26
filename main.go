@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"bitbucket.org/getsocial/docker-codeship-test/simple"
+	"github.com/jasonrichardsmith/codeship-docker/simple"
 )
 
 func main() {
